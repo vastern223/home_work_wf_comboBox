@@ -1,0 +1,10 @@
+C:\Users\Kolotyuk\source\repos\home_work_wf_comboBox\home_work_wf_comboBox\bin\Debug\home_work_wf_comboBox.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_wf_comboBox\home_work_wf_comboBox\bin\Debug\home_work_wf_comboBox.exe
+C:\Users\Kolotyuk\source\repos\home_work_wf_comboBox\home_work_wf_comboBox\bin\Debug\home_work_wf_comboBox.pdb
+C:\Users\Kolotyuk\source\repos\home_work_wf_comboBox\home_work_wf_comboBox\obj\Debug\home_work_wf_comboBox.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_comboBox\home_work_wf_comboBox\obj\Debug\home_work_wf_comboBox.Form1.resources
+C:\Users\Kolotyuk\source\repos\home_work_wf_comboBox\home_work_wf_comboBox\obj\Debug\home_work_wf_comboBox.Properties.Resources.resources
+C:\Users\Kolotyuk\source\repos\home_work_wf_comboBox\home_work_wf_comboBox\obj\Debug\home_work_wf_comboBox.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_comboBox\home_work_wf_comboBox\obj\Debug\home_work_wf_comboBox.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_comboBox\home_work_wf_comboBox\obj\Debug\home_work_wf_comboBox.exe
+C:\Users\Kolotyuk\source\repos\home_work_wf_comboBox\home_work_wf_comboBox\obj\Debug\home_work_wf_comboBox.pdb
